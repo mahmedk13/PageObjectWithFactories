@@ -25,7 +25,7 @@ public class HomePage extends Page {
 	public HomePage gotoFlights(){
 		
 		click(home.flightTab);
-		System.out.println("added for github");
+		System.out.println("removed for github");
 		
 		return this;
 	}
